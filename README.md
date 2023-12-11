@@ -44,24 +44,40 @@
 
 ### Game Development Projects
 
-<b>Unity 3D</b>
+#### Unity 3D
 
-  - [Rocky the Rocket Download and Play](https://github.com/alieantar/RockyTheRocket/releases/tag/release)
+  - [Rocky The Rocket](https://github.com/alieantar/RockyTheRocket/releases/tag/release)
   
-  - [Obstacle Course VR Demo](https://youtu.be/jcTUmnbQvEk)
+    Developed and released the first version of a game using Unity3D and C# where the player navigates a rocket through an environment while considering gravity, drag, and falling objects to land on a landing pad. The     game is in continual progress as more features and capabilities are added.
+  
+  - [Obstacle Course VR](https://youtu.be/jcTUmnbQvEk)
+
+    Developed a three-dimensional virtual reality game using Unity3D and C# where the player navigates a course without colliding with objects in the environment. The purpose of this project was to showcase shader graph capabilities to model naturally-occuring phenomenon such as iridescence, glow effects, refraction, etc.
  
   - [Jedi Trainer VR Demo](https://youtu.be/n6IBGKmVrFA)
+
+    Collaborated with a teammate to develop a game where the player faces attack droids in a sci-fi themed environment, and has to redirect their attacks using their light saber.
  
   - [3D Fruit Ninja VR Demo](https://youtu.be/bPoDIvtrQOk)
+
+    Collaborated with a teammate to develop a 3D game where the player uses a sword to fight off fruits in a tropical environment.
 
 ### Data Science / Machine Learning Projects
 
 <b>Python</b>
 
-  - [Breast Cancer Tumor Classification](https://github.com/alieantar/BreastCancerClassification)
-
   - [Heart Disease Classifier](https://github.com/alieantar/HeartDiseaseClassifier)
 
+    Developed a binary classifier using machine learning to predict whether a patient may have heart disease based on learned features from a dataset.
+  
+  - [Classifying Tumors from a Dataset of Microscopic Breast Biopsy Images ](https://github.com/alieantar/BreastCancerClassification)
+    
+    Utilized a convolutional neural network to extract features and classify tumors as benign or malignant from a dataset of microscopic breast biopsy images.
+    
   - [Image Edge Detection](https://drive.google.com/drive/folders/1cS3kjNdI2ZZb4urzlZAh4Ea2vXhddMk2?usp=drive_link)
 
+    Developed a program that reads a gray-scale image, stores it as a matrix, applies convolution, non-maximum thresholding, and hysteresis thresholding to obtain a final edge map of the image.
+
   - [Image Segmentation](https://drive.google.com/drive/folders/1WpbxOqUUVHW7RAJ_Y6KUonRSMfbtx_tN?usp=drive_link)
+
+    Created a program that reads an image and performs binarization at three different threshold levels, as well as applies Otsu thresholding to perform image segmentation.
