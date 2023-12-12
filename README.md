@@ -52,7 +52,7 @@
   
   - [Obstacle Course VR](https://youtu.be/jcTUmnbQvEk)
 
-    Developed a three-dimensional virtual reality game using Unity3D and C# where the player navigates a course without colliding with objects in the environment. The purpose of this project was to showcase shader graph capabilities to model naturally-occuring phenomenon such as iridescence, glow effects, refraction, etc.
+    Developed a three-dimensional virtual reality game using Unity3D and C# where the player navigates a course without colliding with objects in the environment. The purpose of this project was to showcase shader graph capabilities to model naturally-occurring phenomenon such as iridescence, glow effects, refraction, etc.
  
   - [Jedi Trainer VR Demo](https://youtu.be/n6IBGKmVrFA)
 
