@@ -1,4 +1,4 @@
-# Game Developer
+# Data Scientist and Game Developer
 
 ### Skills
 
